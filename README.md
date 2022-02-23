@@ -7,4 +7,4 @@ I'm Furkan from Turkey. I really enjoy learning languages and frameworks like Py
 
 ## Skills and Experience
 * :computer:   Python Javascript HTML/CSS
-* 📚: Django, React
+* 📚 Django, React
