@@ -5,5 +5,4 @@
 
 
 ## Skills and Experience
-* :computer:   Python Javascript HTML/CSS
-* 📚 Django
+* :computer:   Python  HTML/CSS PostgreSQL
