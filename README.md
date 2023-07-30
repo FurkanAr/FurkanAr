@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Spring Framework, Microservices, REST api**
+- I’m currently learning Spring Framework, Microservices, REST api
 - Languages: Java,Python
 - Frameworks: Spring, SpringBoot, Django
 - Frontend: HTML, CSS, Bootstrap 
